@@ -1,0 +1,79 @@
+body {
+    background-color: #00712D;
+}
+
+.body-cointer {
+    align-content: center;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.head-container {
+    position: absolute;
+    left: 20%;
+    font-family: "Oswald", sans-serif;
+    text-align: center;
+    color: #FFFBE6;
+    align-content: center;
+    width: 800px;
+    background-color: #D5ED9F;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.3);
+}
+
+.description-container {
+    padding-left: 10px;
+    padding-right: 10px;
+    position: absolute;
+    left: 20%;
+    top: 50%;
+    margin: 10px;
+    width: 780px;
+    height: 250px;
+    background-color: #D5ED9F;
+    border-radius: 20px;
+    font-family: "Dosis", sans-serif;
+    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.3);
+}
+
+.album-container {
+    text-align: center;
+    font-family: "Dosis", sans-serif;
+    position: absolute;
+    padding-left: 50px;
+    padding-right: 50px;
+    left: 20%;
+    top: 95%;
+    margin: 10px;
+    width: 700px;
+    background-color: #D5ED9F;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.3);
+}
+
+.contact-container {
+    font-family: "Dosis", sans-serif;
+    position: absolute;
+    left: 20%;
+    top: 150%;
+    margin: 10px;
+    width: 800px;
+    background-color: #D5ED9F;
+    border-radius: 20px;
+    align-items: center;
+    text-align: center;
+    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.3);
+}
+
+.space {
+    width: 800px;
+    height: 50px;
+    position: absolute;
+    left: 20%;
+    top: 180%;
+}
+
+img {
+    border-radius: 20px;
+}
