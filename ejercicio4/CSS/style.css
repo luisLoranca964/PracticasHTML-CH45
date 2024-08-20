@@ -1,0 +1,20 @@
+h2 {
+    font-size: 2.5em;
+    background-color: #CCD5AE;
+    padding: 20px;
+    border-radius: 8px;
+    margin: 0;
+    padding: 10px 0;
+    color: #E0E5B6;
+}
+ul {
+    padding-left: 20px;
+    font-family: 'Arial', sans-serif;
+    background-color: #FAEDCE;
+}
+
+li {
+    margin-bottom: 5px;
+    font-family: 'Verdana', sans-serif;
+    background-color: #FEFAE0;
+}
